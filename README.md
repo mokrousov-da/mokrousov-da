@@ -4,7 +4,11 @@
 
 <div>
   <p>Here you can check the websites and applications I made:</p>
-  <a href="https://mokrousov-da.github.io/dmokrousov/">💻 My portfolio</a>
+  <ul>
+    <li><a href="https://mokrousov-da.github.io/dmokrousov/">💻 My portfolio</a></li>
+    <li><a href="[https://mokrousov-da.github.io/dmokrousov/](https://mokrousov-da.github.io/wine-shop/)">🍷 Wine Shop</a></li>
+    <li><a href="[https://mokrousov-da.github.io/dmokrousov/](https://mokrousov-da.github.io/todolist/)"> To Do List</a></li>
+  </ul>
 </div>
   
   
