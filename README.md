@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <h2>Here you can check the websites and applications I made:</h2>
+  <p>Here you can check the websites and applications I made:</p>
   <a href="https://mokrousov-da.github.io/dmokrousov/">💻 My portfolio</a>
 </div>
   
